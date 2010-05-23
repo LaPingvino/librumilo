@@ -1,4 +1,7 @@
-body {
+#book {
   font-family: "Gentium Book Alt", Gentium, "DejaVu Serif", serif;
-  margin: 0.5in;
+  margin-left: 39.2%;
+  margin-top: 0.5in;
+  margin-right: 0.5in;
+  margin-bottom: 0.5in;
 }
